@@ -1,0 +1,133 @@
+@font-face {
+    font-family: Saira;
+    src: url(C:\Users\vyshn_dy6zpym\OneDrive\Desktop\Futura\to-do\my-app\public\Saira-VariableFont_wdth,wght.ttf);
+}
+@font-face {
+    font-family: Obitron;
+    src: url(C:\Users\vyshn_dy6zpym\OneDrive\Desktop\Futura\to-do\my-app\public\Orbitron-VariableFont_wght.ttf);
+}#body{
+    background-color: #181F39;
+    height: 100vh;
+    font-family:"Saira";
+}
+
+#main{
+    margin-top: 90px;
+    text-align: right;
+    width: 300px;
+    height: 250px;
+    background-color: #DFC3C2;
+    padding: 30px;
+    border-radius: 30px;
+}
+
+#question{
+    color: #181F39;
+    font-weight: bold;
+    font-size: 20px;
+}
+#name{
+    color: #DFC3C2;
+    font-size: 50px;
+    font-family: Obitron;
+}
+
+#username{
+    background-color: #ebd9d8;
+    border-width: 0px;
+}
+
+#todoButton{
+    background-color: #181F39;
+    border-width: 0px;
+    border-radius: 50px;
+    color: #f7f7f7;
+}
+#todoButton2{
+    background-color: #DFC3C2;
+    border-width: 0px;
+    border-radius: 50px;
+    color: #181F39;
+    font-size: 35px;
+}
+
+#intro{
+    font-size: 34px;
+    color: #DFC3C2;
+    margin-left: 100px;
+}
+
+#task{
+    background-color: #DFC3C2;
+    width: 250px;
+    height: 40px;
+    border-radius: 50px;
+    padding: 5px;
+    color: #181F39;
+    margin-left: 400px;
+    font-size: 22px;
+}
+
+#taask{
+    background-color: #5C5C78;
+    width: 250px;
+    height: 40px;
+    border-radius: 50px;
+    padding: 5px;
+    color: #181F39;
+    margin-left: 400px;
+    font-size: 22px;
+    text-decoration:line-through;
+}
+
+#task3{
+    width: 120px;
+    height: 40px;
+    padding: 12px;
+    color: #DFC3C2;
+    font-size: 15px;
+}
+
+#taask3{
+    width: 120px;
+    height: 40px;
+    padding: 12px;
+    color: #5C5C78;
+    font-size: 15px;
+}
+
+.icon{
+    font-size: 20px;
+}
+#task2{
+    background-color: #181F39;
+    width: 60px;
+    height: 40px;
+    border-radius: 50px;
+    color: #DFC3C2;
+    font-size: 20px;
+    padding: 5px;
+
+}
+
+#taask2{
+    background-color: #181F39;
+    width: 60px;
+    height: 40px;
+    border-radius: 50px;
+    color: #5C5C78;
+    font-size: 20px;
+    padding: 5px;
+
+}
+
+
+#main2{
+    margin-top: 40px;
+    text-align: right;
+    width: 410px;
+    height: 250px;
+    background-color: #DFC3C2;
+    padding: 30px;
+    border-radius: 30px;
+}
